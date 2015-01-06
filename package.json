@@ -1,0 +1,19 @@
+{
+  "name": "vineyard-user",
+  "version": "0.0.1",
+  "description": "Vineyard module for handling users",
+  "main": "user.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silentorb/vineyard-user.git"
+  },
+  "author": "Christopher W. Johnson",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "~0.4.x",
+    "grunt-ts": "~1.x.x",
+    "grunt-contrib-watch": "~0.6.1"
+  }
+}
